@@ -61,3 +61,4 @@ C:\Users\Julian GR\source\repos\SupermarketMVP\obj\Debug\net8.0-windows\refint\S
 C:\Users\Julian GR\source\repos\SupermarketMVP\obj\Debug\net8.0-windows\Supermarket_mvp.pdb
 C:\Users\Julian GR\source\repos\SupermarketMVP\obj\Debug\net8.0-windows\Supermarket_mvp.genruntimeconfig.cache
 C:\Users\Julian GR\source\repos\SupermarketMVP\obj\Debug\net8.0-windows\ref\Supermarket_mvp.dll
+C:\Users\Julian GR\source\repos\SupermarketMVP\obj\Debug\net8.0-windows\Supermarket_mvp.Views.MainView.resources
