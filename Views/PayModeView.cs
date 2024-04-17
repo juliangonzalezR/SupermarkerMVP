@@ -120,7 +120,7 @@ namespace Supermarket_mvp.Views
         }
 
         //singleton para controlar solo una instancia del formulario
-        private static PayModeView instance;
+        private static PayModeView? instance;
         public static PayModeView GetInstance(Form parentContainer)
         {
             if (instance == null || instance.IsDisposed)
@@ -181,6 +181,10 @@ namespace Supermarket_mvp.Views
         private void button5_Click(object sender, EventArgs e)
         {
 
+        }
+
+        internal class GetInstance : IPayModeView
+        {
         }
     }
 }
