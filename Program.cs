@@ -1,6 +1,6 @@
 using Supermarket_mvp.Views;
 
-namespace SupermarketMVP
+namespace Supermarket_mvp
 {
     internal static class Program
     {
