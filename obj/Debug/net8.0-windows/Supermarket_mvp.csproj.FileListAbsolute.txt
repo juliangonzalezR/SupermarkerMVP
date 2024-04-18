@@ -62,3 +62,16 @@ C:\Users\Julian GR\source\repos\SupermarketMVP\obj\Debug\net8.0-windows\Supermar
 C:\Users\Julian GR\source\repos\SupermarketMVP\obj\Debug\net8.0-windows\Supermarket_mvp.genruntimeconfig.cache
 C:\Users\Julian GR\source\repos\SupermarketMVP\obj\Debug\net8.0-windows\ref\Supermarket_mvp.dll
 C:\Users\Julian GR\source\repos\SupermarketMVP\obj\Debug\net8.0-windows\Supermarket_mvp.Views.MainView.resources
+C:\Users\Julian GR\source\repos\SupermarketMVP\juliangonzalezR\Supermarkert_mvp\obj\Debug\net8.0-windows\Supermarket_mvp.csproj.AssemblyReference.cache
+C:\Users\Julian GR\source\repos\SupermarketMVP\juliangonzalezR\Supermarkert_mvp\obj\Debug\net8.0-windows\Supermarket_mvp.Properties.Resources.resources
+C:\Users\Julian GR\source\repos\SupermarketMVP\juliangonzalezR\Supermarkert_mvp\obj\Debug\net8.0-windows\Supermarket_mvp.Views.MainView.resources
+C:\Users\Julian GR\source\repos\SupermarketMVP\juliangonzalezR\Supermarkert_mvp\obj\Debug\net8.0-windows\Supermarket_mvp.Views.PayModeView.resources
+C:\Users\Julian GR\source\repos\SupermarketMVP\juliangonzalezR\Supermarkert_mvp\obj\Debug\net8.0-windows\Supermarket_mvp.csproj.GenerateResource.cache
+C:\Users\Julian GR\source\repos\SupermarketMVP\juliangonzalezR\Supermarkert_mvp\obj\Debug\net8.0-windows\Supermarket_mvp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julian GR\source\repos\SupermarketMVP\juliangonzalezR\Supermarkert_mvp\obj\Debug\net8.0-windows\Supermarket_mvp.AssemblyInfoInputs.cache
+C:\Users\Julian GR\source\repos\SupermarketMVP\juliangonzalezR\Supermarkert_mvp\obj\Debug\net8.0-windows\Supermarket_mvp.AssemblyInfo.cs
+C:\Users\Julian GR\source\repos\SupermarketMVP\juliangonzalezR\Supermarkert_mvp\obj\Debug\net8.0-windows\Supermarket_mvp.csproj.CoreCompileInputs.cache
+C:\Users\Julian GR\source\repos\SupermarketMVP\juliangonzalezR\Supermarkert_mvp\obj\Debug\net8.0-windows\Supermarket_mvp.sourcelink.json
+C:\Users\Julian GR\source\repos\SupermarketMVP\juliangonzalezR\Supermarkert_mvp\obj\Debug\net8.0-windows\Supermarket_mvp.dll
+C:\Users\Julian GR\source\repos\SupermarketMVP\juliangonzalezR\Supermarkert_mvp\obj\Debug\net8.0-windows\refint\Supermarket_mvp.dll
+C:\Users\Julian GR\source\repos\SupermarketMVP\juliangonzalezR\Supermarkert_mvp\obj\Debug\net8.0-windows\Supermarket_mvp.pdb

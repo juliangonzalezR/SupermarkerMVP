@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Supermarket_mvp.Views;
 using Supermarket_mvp.Models;
+using System.Windows.Forms;
 
 namespace Supermarket_mvp.Presenters
 {
@@ -18,25 +19,24 @@ namespace Supermarket_mvp.Presenters
         public PayModePresenter(IPayModeView view, IPayModeRepository repository)
         {
             this.payModeBindingSource = new BindingSource();
-
             this.view = view;
             this.repository = repository;
 
-
             this.view.SearchEvent += SearchPayMode;
-
             this.view.AddNewEvent += AddNewPayMode;
             this.view.EditEvent += LoadSelectPayModeToEdit;
-            this.view.DeleteEvent += DelectSelectPayMode;
+            this.view.DeleteEvent += DeleteSelectedPayMode;
             this.view.SaveEvent += SavePayMode;
             this.view.CancelEvent += CancelAction;
 
             this.view.SetPayModeListBildingSource(payModeBindingSource);
-            LoadAllPayModeList();
+
+            loadAllPayModeList();
+
             this.view.Show();
         }
 
-        private void LoadAllPayModeList()
+        private void loadAllPayModeList()
         {
             payModeList = repository.GetAll();
             payModeBindingSource.DataSource = payModeList;
@@ -52,7 +52,7 @@ namespace Supermarket_mvp.Presenters
             throw new NotImplementedException();
         }
 
-        private void DelectSelectPayMode(object? sender, EventArgs e)
+        private void DeleteSelectedPayMode(object? sender, EventArgs e)
         {
             throw new NotImplementedException();
         }
@@ -81,7 +81,16 @@ namespace Supermarket_mvp.Presenters
             payModeBindingSource.DataSource = payModeList;
         }
 
+        
+
+
+
+
+
 
     }
+
+
+
+
 }
-    
