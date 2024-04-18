@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\Julian GR\\source\\repos\\SupermarketMVP\\juliangonzalezR\\Supermarkert_mvp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0C2FD300-5FF6-401F-85B9-BBB9BE29F509}|Supermarket-mvp.csproj|C:\\Users\\Julian GR\\source\\repos\\SupermarketMVP\\juliangonzalezR\\Supermarkert_mvp\\presenters\\presenters\\productpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C2FD300-5FF6-401F-85B9-BBB9BE29F509}|Supermarket-mvp.csproj|solutionrelative:presenters\\presenters\\productpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0C2FD300-5FF6-401F-85B9-BBB9BE29F509}|Supermarket-mvp.csproj|C:\\Users\\Julian GR\\source\\repos\\SupermarketMVP\\juliangonzalezR\\Supermarkert_mvp\\sql.product.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
       "RelativeMoniker": "D:0:0:{0C2FD300-5FF6-401F-85B9-BBB9BE29F509}|Supermarket-mvp.csproj|solutionrelative:sql.product.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
     },
@@ -29,6 +25,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{0C2FD300-5FF6-401F-85B9-BBB9BE29F509}|Supermarket-mvp.csproj|C:\\Users\\Julian GR\\source\\repos\\SupermarketMVP\\juliangonzalezR\\Supermarkert_mvp\\views\\productview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C2FD300-5FF6-401F-85B9-BBB9BE29F509}|Supermarket-mvp.csproj|solutionrelative:views\\productview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C2FD300-5FF6-401F-85B9-BBB9BE29F509}|Supermarket-mvp.csproj|C:\\Users\\Julian GR\\source\\repos\\SupermarketMVP\\juliangonzalezR\\Supermarkert_mvp\\presenters\\presenters\\productpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C2FD300-5FF6-401F-85B9-BBB9BE29F509}|Supermarket-mvp.csproj|solutionrelative:presenters\\presenters\\productpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,19 +50,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "sql.product.sql",
               "DocumentMoniker": "C:\\Users\\Julian GR\\source\\repos\\SupermarketMVP\\juliangonzalezR\\Supermarkert_mvp\\sql.product.sql",
               "RelativeDocumentMoniker": "sql.product.sql",
               "ToolTip": "C:\\Users\\Julian GR\\source\\repos\\SupermarketMVP\\juliangonzalezR\\Supermarkert_mvp\\sql.product.sql",
               "RelativeToolTip": "sql.product.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-04-18T18:54:38.258Z",
+              "WhenOpened": "2024-04-18T22:14:00.692Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "ProductView.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Julian GR\\source\\repos\\SupermarketMVP\\juliangonzalezR\\Supermarkert_mvp\\Views\\ProductView.Designer.cs",
               "RelativeDocumentMoniker": "Views\\ProductView.Designer.cs",
@@ -70,24 +70,24 @@
               "RelativeToolTip": "Views\\ProductView.Designer.cs",
               "ViewState": "AQIAADcAAAAAAAAAAAAhwEsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T18:54:38.302Z",
+              "WhenOpened": "2024-04-18T22:14:00.734Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ProductView.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Julian GR\\source\\repos\\SupermarketMVP\\juliangonzalezR\\Supermarkert_mvp\\Views\\ProductView.cs",
               "RelativeDocumentMoniker": "Views\\ProductView.cs",
               "ToolTip": "C:\\Users\\Julian GR\\source\\repos\\SupermarketMVP\\juliangonzalezR\\Supermarkert_mvp\\Views\\ProductView.cs [Dise\u00F1o]",
               "RelativeToolTip": "Views\\ProductView.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T18:54:38.304Z",
+              "WhenOpened": "2024-04-18T22:14:00.736Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "ProductView.cs",
               "DocumentMoniker": "C:\\Users\\Julian GR\\source\\repos\\SupermarketMVP\\juliangonzalezR\\Supermarkert_mvp\\Views\\ProductView.cs",
               "RelativeDocumentMoniker": "Views\\ProductView.cs",
@@ -95,12 +95,12 @@
               "RelativeToolTip": "Views\\ProductView.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T18:54:38.306Z",
+              "WhenOpened": "2024-04-18T22:14:00.738Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "IProductView.cs",
               "DocumentMoniker": "C:\\Users\\Julian GR\\source\\repos\\SupermarketMVP\\juliangonzalezR\\Supermarkert_mvp\\Views\\IProductView.cs",
               "RelativeDocumentMoniker": "Views\\IProductView.cs",
@@ -108,25 +108,25 @@
               "RelativeToolTip": "Views\\IProductView.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T18:54:38.308Z",
+              "WhenOpened": "2024-04-18T22:14:00.739Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "ProductPresenter.cs",
               "DocumentMoniker": "C:\\Users\\Julian GR\\source\\repos\\SupermarketMVP\\juliangonzalezR\\Supermarkert_mvp\\Presenters\\Presenters\\ProductPresenter.cs",
               "RelativeDocumentMoniker": "Presenters\\Presenters\\ProductPresenter.cs",
               "ToolTip": "C:\\Users\\Julian GR\\source\\repos\\SupermarketMVP\\juliangonzalezR\\Supermarkert_mvp\\Presenters\\Presenters\\ProductPresenter.cs",
               "RelativeToolTip": "Presenters\\Presenters\\ProductPresenter.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAjwDoAAAAUAAAA",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAAAIcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T18:54:38.309Z",
+              "WhenOpened": "2024-04-18T22:14:00.741Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "IProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\Julian GR\\source\\repos\\SupermarketMVP\\juliangonzalezR\\Supermarkert_mvp\\Models\\IProductRepository.cs",
               "RelativeDocumentMoniker": "Models\\IProductRepository.cs",
@@ -134,7 +134,7 @@
               "RelativeToolTip": "Models\\IProductRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T18:54:38.311Z",
+              "WhenOpened": "2024-04-18T22:14:00.742Z",
               "EditorCaption": ""
             }
           ]
