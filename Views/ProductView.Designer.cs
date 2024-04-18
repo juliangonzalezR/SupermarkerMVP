@@ -73,6 +73,7 @@
             // 
             // pictureBox1
             // 
+            pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
             pictureBox1.Location = new Point(12, 12);
             pictureBox1.Name = "pictureBox1";
             pictureBox1.Size = new Size(109, 70);
@@ -244,6 +245,7 @@
             // 
             // BtnCancel
             // 
+            BtnCancel.Image = (Image)resources.GetObject("BtnCancel.Image");
             BtnCancel.Location = new Point(489, 155);
             BtnCancel.Name = "BtnCancel";
             BtnCancel.Size = new Size(75, 45);
@@ -252,6 +254,7 @@
             // 
             // BtnSave
             // 
+            BtnSave.Image = (Image)resources.GetObject("BtnSave.Image");
             BtnSave.Location = new Point(344, 155);
             BtnSave.Name = "BtnSave";
             BtnSave.Size = new Size(75, 45);
