@@ -80,9 +80,9 @@
               "RelativeDocumentMoniker": "Views\\CategorieView.Designer.cs",
               "ToolTip": "C:\\Users\\Julian GR\\source\\repos\\SupermarketMVP\\juliangonzalezR\\Supermarkert_mvp\\Views\\CategorieView.Designer.cs",
               "RelativeToolTip": "Views\\CategorieView.Designer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEMBAAAtAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T23:14:10.905Z",
+              "WhenOpened": "2024-04-19T23:42:25.822Z",
               "EditorCaption": ""
             },
             {
@@ -94,7 +94,7 @@
               "ToolTip": "C:\\Users\\Julian GR\\source\\repos\\SupermarketMVP\\juliangonzalezR\\Supermarkert_mvp\\Views\\CategorieView.cs [Dise\u00F1o]",
               "RelativeToolTip": "Views\\CategorieView.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T23:14:11.141Z",
+              "WhenOpened": "2024-04-19T23:42:26.038Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
@@ -107,7 +107,7 @@
               "RelativeToolTip": "Views\\ICategorieView.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T23:14:11.144Z",
+              "WhenOpened": "2024-04-19T23:42:26.04Z",
               "EditorCaption": ""
             },
             {
@@ -120,7 +120,7 @@
               "RelativeToolTip": "Models\\CategorieModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T23:14:11.146Z",
+              "WhenOpened": "2024-04-19T23:42:26.041Z",
               "EditorCaption": ""
             },
             {
@@ -133,7 +133,7 @@
               "RelativeToolTip": "Views\\ProviderView.Designer.cs",
               "ViewState": "AQIAAOoAAAAAAAAAAAAhwJ4AAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T23:14:11.148Z",
+              "WhenOpened": "2024-04-19T23:42:26.043Z",
               "EditorCaption": ""
             },
             {
@@ -145,7 +145,7 @@
               "ToolTip": "C:\\Users\\Julian GR\\source\\repos\\SupermarketMVP\\juliangonzalezR\\Supermarkert_mvp\\Views\\ProviderView.cs [Dise\u00F1o]",
               "RelativeToolTip": "Views\\ProviderView.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T23:14:11.15Z",
+              "WhenOpened": "2024-04-19T23:42:26.045Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
@@ -158,7 +158,7 @@
               "RelativeToolTip": "_Repositories\\ProviderRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T23:14:11.153Z",
+              "WhenOpened": "2024-04-19T23:42:26.047Z",
               "EditorCaption": ""
             },
             {
@@ -171,7 +171,7 @@
               "RelativeToolTip": "Models\\IProviderRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T23:14:11.155Z",
+              "WhenOpened": "2024-04-19T23:42:26.048Z",
               "EditorCaption": ""
             },
             {
@@ -184,7 +184,7 @@
               "RelativeToolTip": "Presenters\\ProviderPresenter.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T23:14:11.157Z",
+              "WhenOpened": "2024-04-19T23:42:26.05Z",
               "EditorCaption": ""
             },
             {
@@ -197,7 +197,7 @@
               "RelativeToolTip": "Views\\IProviderView.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T23:14:11.159Z",
+              "WhenOpened": "2024-04-19T23:42:26.051Z",
               "EditorCaption": ""
             },
             {
@@ -210,7 +210,7 @@
               "RelativeToolTip": "Models\\ProviderModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T23:14:11.162Z",
+              "WhenOpened": "2024-04-19T23:42:26.053Z",
               "EditorCaption": ""
             },
             {
@@ -222,7 +222,7 @@
               "ToolTip": "C:\\Users\\Julian GR\\source\\repos\\SupermarketMVP\\juliangonzalezR\\Supermarkert_mvp\\sql.providers.sql",
               "RelativeToolTip": "sql.providers.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-04-19T23:14:11.164Z",
+              "WhenOpened": "2024-04-19T23:42:26.054Z",
               "EditorCaption": ""
             },
             {
@@ -234,7 +234,7 @@
               "ToolTip": "C:\\Users\\Julian GR\\source\\repos\\SupermarketMVP\\juliangonzalezR\\Supermarkert_mvp\\sql.product.sql",
               "RelativeToolTip": "sql.product.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-04-19T23:14:11.165Z",
+              "WhenOpened": "2024-04-19T23:42:26.056Z",
               "EditorCaption": ""
             }
           ]
