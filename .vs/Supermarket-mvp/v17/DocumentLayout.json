@@ -57,7 +57,7 @@
               "ToolTip": "C:\\Users\\Julian GR\\source\\repos\\SupermarketMVP\\juliangonzalezR\\Supermarkert_mvp\\sql.product.sql",
               "RelativeToolTip": "sql.product.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-04-18T22:14:00.692Z",
+              "WhenOpened": "2024-04-19T00:41:28.43Z",
               "EditorCaption": ""
             },
             {
@@ -70,7 +70,7 @@
               "RelativeToolTip": "Views\\ProductView.Designer.cs",
               "ViewState": "AQIAADcAAAAAAAAAAAAhwEsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T22:14:00.734Z",
+              "WhenOpened": "2024-04-19T00:41:28.475Z",
               "EditorCaption": ""
             },
             {
@@ -82,7 +82,7 @@
               "ToolTip": "C:\\Users\\Julian GR\\source\\repos\\SupermarketMVP\\juliangonzalezR\\Supermarkert_mvp\\Views\\ProductView.cs [Dise\u00F1o]",
               "RelativeToolTip": "Views\\ProductView.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T22:14:00.736Z",
+              "WhenOpened": "2024-04-19T00:41:28.477Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
@@ -95,7 +95,7 @@
               "RelativeToolTip": "Views\\ProductView.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T22:14:00.738Z",
+              "WhenOpened": "2024-04-19T00:41:28.479Z",
               "EditorCaption": ""
             },
             {
@@ -108,7 +108,7 @@
               "RelativeToolTip": "Views\\IProductView.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T22:14:00.739Z",
+              "WhenOpened": "2024-04-19T00:41:28.48Z",
               "EditorCaption": ""
             },
             {
@@ -121,7 +121,7 @@
               "RelativeToolTip": "Presenters\\Presenters\\ProductPresenter.cs",
               "ViewState": "AQIAAC4AAAAAAAAAAAAAAIcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T22:14:00.741Z",
+              "WhenOpened": "2024-04-19T00:41:28.482Z",
               "EditorCaption": ""
             },
             {
@@ -134,7 +134,7 @@
               "RelativeToolTip": "Models\\IProductRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T22:14:00.742Z",
+              "WhenOpened": "2024-04-19T00:41:28.484Z",
               "EditorCaption": ""
             }
           ]
