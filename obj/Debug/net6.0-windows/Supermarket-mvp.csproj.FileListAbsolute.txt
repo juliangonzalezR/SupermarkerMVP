@@ -1,0 +1,187 @@
+C:\Users\jualonsa\source\repos\Supermarket-mvp\obj\Debug\net6.0-windows\Supermarket_mvp.Properties.Resources.resources
+C:\Users\jualonsa\source\repos\Supermarket-mvp\obj\Debug\net6.0-windows\Supermarket_mvp.Views.PayModeView.resources
+C:\Users\jualonsa\source\repos\Supermarket-mvp\obj\Debug\net6.0-windows\Supermarket-mvp.csproj.GenerateResource.cache
+C:\Users\jualonsa\source\repos\Supermarket-mvp\obj\Debug\net6.0-windows\Supermarket-mvp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jualonsa\source\repos\Supermarket-mvp\obj\Debug\net6.0-windows\Supermarket-mvp.AssemblyInfoInputs.cache
+C:\Users\jualonsa\source\repos\Supermarket-mvp\obj\Debug\net6.0-windows\Supermarket-mvp.AssemblyInfo.cs
+C:\Users\jualonsa\source\repos\Supermarket-mvp\obj\Debug\net6.0-windows\Supermarket-mvp.csproj.CoreCompileInputs.cache
+C:\Users\jualonsa\source\repos\Supermarket-mvp\bin\Debug\net6.0-windows\Supermarket-mvp.exe
+C:\Users\jualonsa\source\repos\Supermarket-mvp\bin\Debug\net6.0-windows\Supermarket-mvp.deps.json
+C:\Users\jualonsa\source\repos\Supermarket-mvp\bin\Debug\net6.0-windows\Supermarket-mvp.runtimeconfig.json
+C:\Users\jualonsa\source\repos\Supermarket-mvp\bin\Debug\net6.0-windows\Supermarket-mvp.dll
+C:\Users\jualonsa\source\repos\Supermarket-mvp\bin\Debug\net6.0-windows\Supermarket-mvp.pdb
+C:\Users\jualonsa\source\repos\Supermarket-mvp\obj\Debug\net6.0-windows\Supermarket-mvp.dll
+C:\Users\jualonsa\source\repos\Supermarket-mvp\obj\Debug\net6.0-windows\refint\Supermarket-mvp.dll
+C:\Users\jualonsa\source\repos\Supermarket-mvp\obj\Debug\net6.0-windows\Supermarket-mvp.pdb
+C:\Users\jualonsa\source\repos\Supermarket-mvp\obj\Debug\net6.0-windows\Supermarket-mvp.genruntimeconfig.cache
+C:\Users\jualonsa\source\repos\Supermarket-mvp\obj\Debug\net6.0-windows\ref\Supermarket-mvp.dll
+C:\Users\jualonsa\source\repos\Supermarket-mvp\bin\Debug\net6.0-windows\Supermarket-mvp.dll.config
+C:\Users\jualonsa\source\repos\Supermarket-mvp\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\jualonsa\source\repos\Supermarket-mvp\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\jualonsa\source\repos\Supermarket-mvp\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jualonsa\source\repos\Supermarket-mvp\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\jualonsa\source\repos\Supermarket-mvp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\jualonsa\source\repos\Supermarket-mvp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\jualonsa\source\repos\Supermarket-mvp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\jualonsa\source\repos\Supermarket-mvp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\jualonsa\source\repos\Supermarket-mvp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\jualonsa\source\repos\Supermarket-mvp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\jualonsa\source\repos\Supermarket-mvp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\jualonsa\source\repos\Supermarket-mvp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jualonsa\source\repos\Supermarket-mvp\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\jualonsa\source\repos\Supermarket-mvp\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\jualonsa\source\repos\Supermarket-mvp\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jualonsa\source\repos\Supermarket-mvp\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\jualonsa\source\repos\Supermarket-mvp\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\jualonsa\source\repos\Supermarket-mvp\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\jualonsa\source\repos\Supermarket-mvp\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\jualonsa\source\repos\Supermarket-mvp\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jualonsa\source\repos\Supermarket-mvp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jualonsa\source\repos\Supermarket-mvp\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jualonsa\source\repos\Supermarket-mvp\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jualonsa\source\repos\Supermarket-mvp\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\jualonsa\source\repos\Supermarket-mvp\obj\Debug\net6.0-windows\Supermarket-mvp.csproj.AssemblyReference.cache
+C:\Users\jualonsa\source\repos\Supermarket-mvp\obj\Debug\net6.0-windows\Supermarket-mvp.csproj.CopyComplete
+C:\Users\jualonsa\source\repos\Supermarket-mvp\obj\Debug\net6.0-windows\Supermarket_mvp.Views.MainView.resources
+C:\Users\jualonsa\source\repos\Supermarket-mvp\obj\Debug\net6.0-windows\Supermarket_mvp.Views.ProductView.resources
+C:\Users\jualonsa\source\repos\Supermarket-mvp\obj\Debug\net6.0-windows\Supermarket_mvp.Views.ProvidersView.resources
+C:\Users\jualonsa\source\repos\Supermarket-mvp\obj\Debug\net6.0-windows\Supermarket_mvp.Views.CategorieView.resources
+C:\Users\Julian GR\source\repos\supermarker-mvp-main\bin\Debug\net6.0-windows\Supermarket-mvp.exe
+C:\Users\Julian GR\source\repos\supermarker-mvp-main\bin\Debug\net6.0-windows\Supermarket-mvp.dll.config
+C:\Users\Julian GR\source\repos\supermarker-mvp-main\bin\Debug\net6.0-windows\Supermarket-mvp.deps.json
+C:\Users\Julian GR\source\repos\supermarker-mvp-main\bin\Debug\net6.0-windows\Supermarket-mvp.runtimeconfig.json
+C:\Users\Julian GR\source\repos\supermarker-mvp-main\bin\Debug\net6.0-windows\Supermarket-mvp.dll
+C:\Users\Julian GR\source\repos\supermarker-mvp-main\bin\Debug\net6.0-windows\Supermarket-mvp.pdb
+C:\Users\Julian GR\source\repos\supermarker-mvp-main\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Julian GR\source\repos\supermarker-mvp-main\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Julian GR\source\repos\supermarker-mvp-main\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Julian GR\source\repos\supermarker-mvp-main\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Julian GR\source\repos\supermarker-mvp-main\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Julian GR\source\repos\supermarker-mvp-main\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Julian GR\source\repos\supermarker-mvp-main\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Julian GR\source\repos\supermarker-mvp-main\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Julian GR\source\repos\supermarker-mvp-main\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Julian GR\source\repos\supermarker-mvp-main\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Julian GR\source\repos\supermarker-mvp-main\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Julian GR\source\repos\supermarker-mvp-main\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Julian GR\source\repos\supermarker-mvp-main\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Julian GR\source\repos\supermarker-mvp-main\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Julian GR\source\repos\supermarker-mvp-main\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Julian GR\source\repos\supermarker-mvp-main\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\Julian GR\source\repos\supermarker-mvp-main\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Julian GR\source\repos\supermarker-mvp-main\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Julian GR\source\repos\supermarker-mvp-main\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Julian GR\source\repos\supermarker-mvp-main\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Julian GR\source\repos\supermarker-mvp-main\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Julian GR\source\repos\supermarker-mvp-main\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Julian GR\source\repos\supermarker-mvp-main\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Julian GR\source\repos\supermarker-mvp-main\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Julian GR\source\repos\supermarker-mvp-main\obj\Debug\net6.0-windows\Supermarket-mvp.csproj.AssemblyReference.cache
+C:\Users\Julian GR\source\repos\supermarker-mvp-main\obj\Debug\net6.0-windows\Supermarket_mvp.Properties.Resources.resources
+C:\Users\Julian GR\source\repos\supermarker-mvp-main\obj\Debug\net6.0-windows\Supermarket_mvp.Views.CategorieView.resources
+C:\Users\Julian GR\source\repos\supermarker-mvp-main\obj\Debug\net6.0-windows\Supermarket_mvp.Views.MainView.resources
+C:\Users\Julian GR\source\repos\supermarker-mvp-main\obj\Debug\net6.0-windows\Supermarket_mvp.Views.PayModeView.resources
+C:\Users\Julian GR\source\repos\supermarker-mvp-main\obj\Debug\net6.0-windows\Supermarket_mvp.Views.ProductView.resources
+C:\Users\Julian GR\source\repos\supermarker-mvp-main\obj\Debug\net6.0-windows\Supermarket_mvp.Views.ProvidersView.resources
+C:\Users\Julian GR\source\repos\supermarker-mvp-main\obj\Debug\net6.0-windows\Supermarket-mvp.csproj.GenerateResource.cache
+C:\Users\Julian GR\source\repos\supermarker-mvp-main\obj\Debug\net6.0-windows\Supermarket-mvp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julian GR\source\repos\supermarker-mvp-main\obj\Debug\net6.0-windows\Supermarket-mvp.AssemblyInfoInputs.cache
+C:\Users\Julian GR\source\repos\supermarker-mvp-main\obj\Debug\net6.0-windows\Supermarket-mvp.AssemblyInfo.cs
+C:\Users\Julian GR\source\repos\supermarker-mvp-main\obj\Debug\net6.0-windows\Supermarket-mvp.csproj.CoreCompileInputs.cache
+C:\Users\Julian GR\source\repos\supermarker-mvp-main\obj\Debug\net6.0-windows\Supermar.FBD2E1F5.Up2Date
+C:\Users\Julian GR\source\repos\supermarker-mvp-main\obj\Debug\net6.0-windows\Supermarket-mvp.dll
+C:\Users\Julian GR\source\repos\supermarker-mvp-main\obj\Debug\net6.0-windows\refint\Supermarket-mvp.dll
+C:\Users\Julian GR\source\repos\supermarker-mvp-main\obj\Debug\net6.0-windows\Supermarket-mvp.pdb
+C:\Users\Julian GR\source\repos\supermarker-mvp-main\obj\Debug\net6.0-windows\Supermarket-mvp.genruntimeconfig.cache
+C:\Users\Julian GR\source\repos\supermarker-mvp-main\obj\Debug\net6.0-windows\ref\Supermarket-mvp.dll
+C:\Users\Julian GR\source\repos\supermarker-mvp-main\bin\Debug\net6.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\Julian GR\source\repos\supermarker-mvp-main\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\Julian GR\source\repos\supermarker-mvp-main\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Julian GR\source\repos\supermarker-mvp-main\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Julian GR\source\repos\supermarker-mvp-main\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Julian GR\source\repos\supermarker-mvp-main\bin\Debug\net6.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Julian GR\source\repos\supermarker-mvp-main\bin\Debug\net6.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Julian GR\source\repos\supermarker-mvp-main\bin\Debug\net6.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Julian GR\source\repos\supermarker-mvp-main\bin\Debug\net6.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Julian GR\source\repos\supermarker-mvp-main\bin\Debug\net6.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Julian GR\source\repos\supermarker-mvp-main\bin\Debug\net6.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Julian GR\source\repos\supermarker-mvp-main\bin\Debug\net6.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Julian GR\source\repos\supermarker-mvp-main\bin\Debug\net6.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Julian GR\source\repos\supermarker-mvp-main\bin\Debug\net6.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Julian GR\source\repos\supermarker-mvp-main\bin\Debug\net6.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Julian GR\source\repos\supermarker-mvp-main\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\Julian GR\source\repos\supermarker-mvp-main\bin\Debug\net6.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\Julian GR\source\repos\supermarker-mvp-main\bin\Debug\net6.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\Julian GR\source\repos\supermarker-mvp-main\bin\Debug\net6.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Julian GR\source\repos\supermarker-mvp-main\bin\Debug\net6.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Julian GR\source\repos\supermarker-mvp-main\bin\Debug\net6.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Julian GR\source\repos\SupermarketMVP\juliangonzalezR\Supermarkert_mvp\bin\Debug\net6.0-windows\Supermarket-mvp.exe
+C:\Users\Julian GR\source\repos\SupermarketMVP\juliangonzalezR\Supermarkert_mvp\bin\Debug\net6.0-windows\Supermarket-mvp.dll.config
+C:\Users\Julian GR\source\repos\SupermarketMVP\juliangonzalezR\Supermarkert_mvp\bin\Debug\net6.0-windows\Supermarket-mvp.deps.json
+C:\Users\Julian GR\source\repos\SupermarketMVP\juliangonzalezR\Supermarkert_mvp\bin\Debug\net6.0-windows\Supermarket-mvp.runtimeconfig.json
+C:\Users\Julian GR\source\repos\SupermarketMVP\juliangonzalezR\Supermarkert_mvp\bin\Debug\net6.0-windows\Supermarket-mvp.dll
+C:\Users\Julian GR\source\repos\SupermarketMVP\juliangonzalezR\Supermarkert_mvp\bin\Debug\net6.0-windows\Supermarket-mvp.pdb
+C:\Users\Julian GR\source\repos\SupermarketMVP\juliangonzalezR\Supermarkert_mvp\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Julian GR\source\repos\SupermarketMVP\juliangonzalezR\Supermarkert_mvp\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Julian GR\source\repos\SupermarketMVP\juliangonzalezR\Supermarkert_mvp\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Julian GR\source\repos\SupermarketMVP\juliangonzalezR\Supermarkert_mvp\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Julian GR\source\repos\SupermarketMVP\juliangonzalezR\Supermarkert_mvp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Julian GR\source\repos\SupermarketMVP\juliangonzalezR\Supermarkert_mvp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Julian GR\source\repos\SupermarketMVP\juliangonzalezR\Supermarkert_mvp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\Julian GR\source\repos\SupermarketMVP\juliangonzalezR\Supermarkert_mvp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Julian GR\source\repos\SupermarketMVP\juliangonzalezR\Supermarkert_mvp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Julian GR\source\repos\SupermarketMVP\juliangonzalezR\Supermarkert_mvp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Julian GR\source\repos\SupermarketMVP\juliangonzalezR\Supermarkert_mvp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Julian GR\source\repos\SupermarketMVP\juliangonzalezR\Supermarkert_mvp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Julian GR\source\repos\SupermarketMVP\juliangonzalezR\Supermarkert_mvp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Julian GR\source\repos\SupermarketMVP\juliangonzalezR\Supermarkert_mvp\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Julian GR\source\repos\SupermarketMVP\juliangonzalezR\Supermarkert_mvp\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\Julian GR\source\repos\SupermarketMVP\juliangonzalezR\Supermarkert_mvp\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Julian GR\source\repos\SupermarketMVP\juliangonzalezR\Supermarkert_mvp\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Julian GR\source\repos\SupermarketMVP\juliangonzalezR\Supermarkert_mvp\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Julian GR\source\repos\SupermarketMVP\juliangonzalezR\Supermarkert_mvp\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Julian GR\source\repos\SupermarketMVP\juliangonzalezR\Supermarkert_mvp\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Julian GR\source\repos\SupermarketMVP\juliangonzalezR\Supermarkert_mvp\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\Julian GR\source\repos\SupermarketMVP\juliangonzalezR\Supermarkert_mvp\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Julian GR\source\repos\SupermarketMVP\juliangonzalezR\Supermarkert_mvp\bin\Debug\net6.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Julian GR\source\repos\SupermarketMVP\juliangonzalezR\Supermarkert_mvp\bin\Debug\net6.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Julian GR\source\repos\SupermarketMVP\juliangonzalezR\Supermarkert_mvp\bin\Debug\net6.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Julian GR\source\repos\SupermarketMVP\juliangonzalezR\Supermarkert_mvp\bin\Debug\net6.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Julian GR\source\repos\SupermarketMVP\juliangonzalezR\Supermarkert_mvp\bin\Debug\net6.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Julian GR\source\repos\SupermarketMVP\juliangonzalezR\Supermarkert_mvp\bin\Debug\net6.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Julian GR\source\repos\SupermarketMVP\juliangonzalezR\Supermarkert_mvp\bin\Debug\net6.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Julian GR\source\repos\SupermarketMVP\juliangonzalezR\Supermarkert_mvp\bin\Debug\net6.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Julian GR\source\repos\SupermarketMVP\juliangonzalezR\Supermarkert_mvp\bin\Debug\net6.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Julian GR\source\repos\SupermarketMVP\juliangonzalezR\Supermarkert_mvp\bin\Debug\net6.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Julian GR\source\repos\SupermarketMVP\juliangonzalezR\Supermarkert_mvp\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Julian GR\source\repos\SupermarketMVP\juliangonzalezR\Supermarkert_mvp\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Julian GR\source\repos\SupermarketMVP\juliangonzalezR\Supermarkert_mvp\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Julian GR\source\repos\SupermarketMVP\juliangonzalezR\Supermarkert_mvp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Julian GR\source\repos\SupermarketMVP\juliangonzalezR\Supermarkert_mvp\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Julian GR\source\repos\SupermarketMVP\juliangonzalezR\Supermarkert_mvp\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Julian GR\source\repos\SupermarketMVP\juliangonzalezR\Supermarkert_mvp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\Julian GR\source\repos\SupermarketMVP\juliangonzalezR\Supermarkert_mvp\bin\Debug\net6.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\Julian GR\source\repos\SupermarketMVP\juliangonzalezR\Supermarkert_mvp\bin\Debug\net6.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\Julian GR\source\repos\SupermarketMVP\juliangonzalezR\Supermarkert_mvp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Julian GR\source\repos\SupermarketMVP\juliangonzalezR\Supermarkert_mvp\bin\Debug\net6.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Julian GR\source\repos\SupermarketMVP\juliangonzalezR\Supermarkert_mvp\bin\Debug\net6.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Julian GR\source\repos\SupermarketMVP\juliangonzalezR\Supermarkert_mvp\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Julian GR\source\repos\SupermarketMVP\juliangonzalezR\Supermarkert_mvp\obj\Debug\net6.0-windows\Supermarket-mvp.csproj.AssemblyReference.cache
+C:\Users\Julian GR\source\repos\SupermarketMVP\juliangonzalezR\Supermarkert_mvp\obj\Debug\net6.0-windows\Supermarket_mvp.Properties.Resources.resources
+C:\Users\Julian GR\source\repos\SupermarketMVP\juliangonzalezR\Supermarkert_mvp\obj\Debug\net6.0-windows\Supermarket_mvp.Views.CategorieView.resources
+C:\Users\Julian GR\source\repos\SupermarketMVP\juliangonzalezR\Supermarkert_mvp\obj\Debug\net6.0-windows\Supermarket_mvp.Views.MainView.resources
+C:\Users\Julian GR\source\repos\SupermarketMVP\juliangonzalezR\Supermarkert_mvp\obj\Debug\net6.0-windows\Supermarket_mvp.Views.PayModeView.resources
+C:\Users\Julian GR\source\repos\SupermarketMVP\juliangonzalezR\Supermarkert_mvp\obj\Debug\net6.0-windows\Supermarket_mvp.Views.ProductView.resources
+C:\Users\Julian GR\source\repos\SupermarketMVP\juliangonzalezR\Supermarkert_mvp\obj\Debug\net6.0-windows\Supermarket_mvp.Views.ProvidersView.resources
+C:\Users\Julian GR\source\repos\SupermarketMVP\juliangonzalezR\Supermarkert_mvp\obj\Debug\net6.0-windows\Supermarket-mvp.csproj.GenerateResource.cache
+C:\Users\Julian GR\source\repos\SupermarketMVP\juliangonzalezR\Supermarkert_mvp\obj\Debug\net6.0-windows\Supermarket-mvp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julian GR\source\repos\SupermarketMVP\juliangonzalezR\Supermarkert_mvp\obj\Debug\net6.0-windows\Supermarket-mvp.AssemblyInfoInputs.cache
+C:\Users\Julian GR\source\repos\SupermarketMVP\juliangonzalezR\Supermarkert_mvp\obj\Debug\net6.0-windows\Supermarket-mvp.AssemblyInfo.cs
+C:\Users\Julian GR\source\repos\SupermarketMVP\juliangonzalezR\Supermarkert_mvp\obj\Debug\net6.0-windows\Supermarket-mvp.csproj.CoreCompileInputs.cache
+C:\Users\Julian GR\source\repos\SupermarketMVP\juliangonzalezR\Supermarkert_mvp\obj\Debug\net6.0-windows\Supermarket-mvp.sourcelink.json
+C:\Users\Julian GR\source\repos\SupermarketMVP\juliangonzalezR\Supermarkert_mvp\obj\Debug\net6.0-windows\Supermar.FBD2E1F5.Up2Date
+C:\Users\Julian GR\source\repos\SupermarketMVP\juliangonzalezR\Supermarkert_mvp\obj\Debug\net6.0-windows\Supermarket-mvp.dll
+C:\Users\Julian GR\source\repos\SupermarketMVP\juliangonzalezR\Supermarkert_mvp\obj\Debug\net6.0-windows\refint\Supermarket-mvp.dll
+C:\Users\Julian GR\source\repos\SupermarketMVP\juliangonzalezR\Supermarkert_mvp\obj\Debug\net6.0-windows\Supermarket-mvp.pdb
+C:\Users\Julian GR\source\repos\SupermarketMVP\juliangonzalezR\Supermarkert_mvp\obj\Debug\net6.0-windows\Supermarket-mvp.genruntimeconfig.cache
+C:\Users\Julian GR\source\repos\SupermarketMVP\juliangonzalezR\Supermarkert_mvp\obj\Debug\net6.0-windows\ref\Supermarket-mvp.dll
