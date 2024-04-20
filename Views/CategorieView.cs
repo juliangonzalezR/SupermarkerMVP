@@ -7,11 +7,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement.StartPanel;
 
 namespace Supermarket_mvp.Views
 {
     public partial class CategorieView : Form, ICategorieView
     {
+        private bool isEdit;
+        private bool isSuccesful;
+        private string message;
 
         public CategorieView()
         {
@@ -38,52 +42,57 @@ namespace Supermarket_mvp.Views
             BtnNew.Click += delegate
             {
                 AddNewEvent?.Invoke(this, EventArgs.Empty);
+
                 tabControl1.TabPages.Remove(tabPageCategorieList);
                 tabControl1.TabPages.Add(tabPageCategorieDetail);
                 tabPageCategorieDetail.Text = "Add New Categorie";
+
             };
+
             BtnEdit.Click += delegate
             {
                 EditEvent?.Invoke(this, EventArgs.Empty);
+
                 tabControl1.TabPages.Remove(tabPageCategorieList);
                 tabControl1.TabPages.Add(tabPageCategorieDetail);
                 tabPageCategorieDetail.Text = "Edit Categorie";
-
             };
-            BtnDelete.Click += delegate
-            {
-                var result = MessageBox.Show(
-                    "Are you sure you want to delete the selected Categorie",
-                    "Warning",
-                    MessageBoxButtons.YesNo, MessageBoxIcon.Warning);
-                if (result == DialogResult.Yes)
-                {
-                    DeleteEvent?.Invoke(this, EventArgs.Empty);
-                    MessageBox.Show(Message);
-                }
 
-            };
             BtnSave.Click += delegate
             {
                 SaveEvent?.Invoke(this, EventArgs.Empty);
-                if (isSuccessful)
+
+                if (isSuccesful)
                 {
                     tabControl1.TabPages.Remove(tabPageCategorieDetail);
                     tabControl1.TabPages.Add(tabPageCategorieList);
                 }
                 MessageBox.Show(Message);
             };
+
             BtnCancel.Click += delegate
             {
                 CancelEvent?.Invoke(this, EventArgs.Empty);
+
                 tabControl1.TabPages.Remove(tabPageCategorieDetail);
                 tabControl1.TabPages.Add(tabPageCategorieList);
             };
-        }
 
-        private bool isEdit;
-        private bool isSuccessful;
-        private string message;
+            BtnDelete.Click += delegate
+            {
+                var result = MessageBox.Show(
+                    "Are you sure you want to delete the selected Categorie",
+                    "Warning",
+                    MessageBoxButtons.YesNo, MessageBoxIcon.Warning);
+
+                if (result == DialogResult.Yes)
+                {
+                    DeleteEvent?.Invoke(this, EventArgs.Empty);
+                    MessageBox.Show(Message);
+                }
+            };
+
+        }
 
         public string CategorieId
         {
@@ -110,10 +119,10 @@ namespace Supermarket_mvp.Views
             get { return isEdit; }
             set { isEdit = value; }
         }
-        public bool IsSuccessful
+        public bool IsSuccesful
         {
-            get { return isSuccessful; }
-            set { isSuccessful = value; }
+            get { return isSuccesful; }
+            set { isSuccesful = value; }
         }
         public string Message
         {
@@ -121,18 +130,22 @@ namespace Supermarket_mvp.Views
             set { message = value; }
         }
 
+
         public event EventHandler SearchEvent;
         public event EventHandler AddNewEvent;
         public event EventHandler EditEvent;
         public event EventHandler DeleteEvent;
-        public event EventHandler SaveEvent;
+        public event EventHandler SaveEevent;
         public event EventHandler CancelEvent;
+        public event EventHandler SaveEvent;
 
-        public void SetCategorieListBildingSource(BindingSource CategorieList)
+        public void SetCategorieListBildingSource(BindingSource categorieList)
         {
-            DgCategorie.DataSource = CategorieList;
+            DgCategorie.DataSource = categorieList;
         }
+
         private static CategorieView instance;
+
         public static CategorieView GetInstance(Form parentContainer)
         {
             if (instance == null || instance.IsDisposed)
@@ -153,5 +166,6 @@ namespace Supermarket_mvp.Views
             }
             return instance;
         }
+
     }
 }

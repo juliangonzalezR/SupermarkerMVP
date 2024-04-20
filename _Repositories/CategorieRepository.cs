@@ -1,12 +1,11 @@
-﻿using Supermarket_mvp.Models;
+﻿using Microsoft.Data.SqlClient;
+using Supermarket_mvp.Models;
 using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Microsoft.Data.SqlClient;
-using Microsoft.Data;
-using System.Data;
 
 namespace Supermarket_mvp._Repositories
 {
@@ -52,8 +51,8 @@ namespace Supermarket_mvp._Repositories
                 command.Connection = connection;
                 command.CommandText = @"UPDATE Categorie
                                         SET Categorie_Name =@name,
-                                        Categorie_Observation =@observation
-                                        WHERE Categorie_Id =@id";
+                                        Categorie_Observation = @observation
+                                        WHERE Categorie_Id = @id";
                 command.Parameters.Add("@name", SqlDbType.NVarChar).Value = categorieModel.Name;
                 command.Parameters.Add("@observation", SqlDbType.NVarChar).Value = categorieModel.Observation;
                 command.Parameters.Add("@id", SqlDbType.Int).Value = categorieModel.Id;
@@ -111,8 +110,11 @@ namespace Supermarket_mvp._Repositories
                         categorieList.Add(categorieModel);
                     }
                 }
+
             }
             return categorieList;
+
         }
+
     }
 }

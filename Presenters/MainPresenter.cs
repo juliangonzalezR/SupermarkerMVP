@@ -20,37 +20,16 @@ namespace Supermarket_mvp.Presenters
             this.sqlConnectionString = sqlConnectionString;
 
             this.mainView.ShowPayModeView += ShowPayModeView;
-            this.mainView.ShowProductView += ShowProductView;
-            this.mainView.ShowProvidersView += ShowProvidersView;
-            this.mainView.ShowCategorieView += ShowCategorieView;
         }
-
-        private void ShowCategorieView(object? sender, EventArgs e)
-        {
-            ICategorieView view = CategorieView.GetInstance((MainView)mainView);
-            ICategorieRepository repository = new CategorieRepository(sqlConnectionString);
-            new CategoriePresenter(view, repository);
-        }
-
-        private void ShowProvidersView(object? sender, EventArgs e)
-        {
-            IProvidersView view = ProvidersView.GetInstance((MainView)mainView);
-            IProvidersRepository repository = new ProvidersRepository(sqlConnectionString);
-            new ProvidersPresenter(view, repository);
-        }
-
-        private void ShowProductView(object? sender, EventArgs e)
-        {
-            IProductView view = ProductView.GetInstance((MainView)mainView);
-            IProductRepository repository = new ProductRepository(sqlConnectionString);
-            new ProductPresenter(view, repository);
-        }
-
-        private void ShowPayModeView(object? sender, EventArgs e)
-        {
-            IPayModeView view = PayModeView.GetInstance((MainView)mainView);
+        public void ShowPayModeView(object? sender, EventArgs e)
+         {
+            IPayModeView view = new PayModeView.GetInstance((MainView)mainView);
             IPayModeRepository repository = new PayModeRepository(sqlConnectionString);
             new PayModePresenter(view, repository);
-        }
-    }
+         }
+
+
+
+
+}
 }

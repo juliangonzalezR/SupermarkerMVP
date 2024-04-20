@@ -8,6 +8,7 @@ namespace Supermarket_mvp.Models
 {
     internal interface ICategorieRepository
     {
+
         void Add(CategorieModel categorieModel);
         void Edit(CategorieModel categorieModel);
         void Delete(int id);
