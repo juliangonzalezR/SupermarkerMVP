@@ -13,7 +13,7 @@ namespace Supermarket_mvp.Views
         string CategorieObservation { get; set; }
         string SearchValue { get; set; }
         bool IsEdit { get; set; }
-        bool IsSuccesful { get; set; }
+        bool IsSuccessful { get; set; }
         string Message { get; set; }
 
         event EventHandler SearchEvent;
@@ -22,7 +22,6 @@ namespace Supermarket_mvp.Views
         event EventHandler DeleteEvent;
         event EventHandler SaveEvent;
         event EventHandler CancelEvent;
-
         void SetCategorieListBildingSource(BindingSource categorieList);
         void Show();
     }
